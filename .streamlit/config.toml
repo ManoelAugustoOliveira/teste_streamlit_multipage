@@ -1,0 +1,20 @@
+[client]
+
+# Controla se exceções de aplicativos não detectadas e avisos de descontinuação
+# são exibidos no navegador. Por padrão, isso é definido como True e
+# Streamlit exibe exceções de aplicativos e rastreamentos associados, e
+# avisos de depreciação, no navegador.
+
+# showErrorDetails = true
+
+# Classifica como o menu de navegação irá aparecer
+# * "developer" : Mostra as opções do desenvolvedor.
+# * "viewer" : Oculta as opções do desenvolvedor.
+# * "minimal" : Não mostra as opções
+
+toolbarMode = "minimal"
+
+# Controla se a navegação da página da barra lateral padrão em um aplicativo de várias páginas é exibida.
+# Usado para aplicações multipaginas
+
+#showSidebarNavigation = false
